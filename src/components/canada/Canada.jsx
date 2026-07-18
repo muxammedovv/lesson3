@@ -10,7 +10,8 @@ import { PiHandshakeLight } from "react-icons/pi";
 const Canada = () => {
   return (
     <div className='Canada-sec'>
-        <div className="head-sec">
+      <div className="container">
+          <div className="head-sec">
       <h1 className="h1">WHAT MAKES US THE #1 <br />
       ONLINE MARIJUANA <br />
       DISPANSARY IN CANADA?
@@ -105,7 +106,7 @@ const Canada = () => {
             </p>
         </div>    
     </div>
-
+      </div>
     </div>
   )
 }
