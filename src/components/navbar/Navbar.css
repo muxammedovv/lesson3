@@ -1,0 +1,40 @@
+.navbar-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.nav-medium input {
+  padding: 12px 80px 12px 30px;
+  border-radius: 100px;
+  border: 2px solid #efefef;
+  outline: none;
+}
+
+.navbar-wrapper {
+  padding: 10px;
+}
+.nav-medium {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  overflow: hidden;
+}
+.nav-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.nav-icon-box {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #17af26;
+}
+.nav-icon-box a {
+  font-size: 17px;
+  color: white;
+}
