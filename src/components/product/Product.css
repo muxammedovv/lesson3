@@ -1,0 +1,147 @@
+.seeds {
+  width: 1201px;
+  height: 804px;
+  border-top: 1px solid #717378;
+  padding-top: 64px;
+  gap: 32px;
+  display: flex;
+}
+.indica {
+  width: 379px;
+  height: 656px;
+  border-radius: 12px;
+  border: 1px solid #f4f4f4;
+  padding: 32px;
+  gap: 32px;
+}
+.indica img {
+  width: 315px;
+  height: 240px;
+  border-radius: 8px;
+  gap: 8px;
+}
+.indica h2 {
+  width: 99px;
+  height: 38px;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 120%;
+  letter-spacing: -1.5px;
+  color: #1a1e26;
+  margin-top: 32px;
+}
+.indica p {
+  width: 315px;
+  height: 210px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  color: #717378;
+  margin-top: 16px;
+}
+.indica button {
+  width: 95px;
+  height: 24px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  color: #17af26;
+  border: none;
+  background: none;
+  margin-top: 32px;
+}
+.sativa {
+  width: 379px;
+  height: 614px;
+  border-radius: 12px;
+  border: 1px solid #f4f4f4;
+  padding: 32px;
+  gap: 32px;
+}
+
+.sativa img {
+  width: 315px;
+  height: 240px;
+  border-radius: 8px;
+  gap: 8px;
+}
+.sativa h2 {
+  width: 96px;
+  height: 38px;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 120%;
+  letter-spacing: -1.5px;
+  color: #1a1e26;
+  margin-top: 32px;
+}
+.sativa p {
+  width: 315px;
+  height: 168px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  color: #717378;
+  margin-top: 16px;
+}
+.sativa button {
+  width: 95px;
+  height: 24px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  color: #17af26;
+  border: none;
+  background: none;
+  margin-top: 32px;
+}
+.hybrids {
+  width: 379px;
+  height: 740px;
+  border-radius: 12px;
+  border: 1px solid #f4f4f4;
+  padding: 32px;
+  gap: 32px;
+}
+.hybrids img {
+  width: 315px;
+  height: 240px;
+  border-radius: 8px;
+  gap: 8px;
+}
+.hybrids h2 {
+  width: 117px;
+  height: 38px;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 120%;
+  letter-spacing: -1.5px;
+  color: #1a1e26;
+  margin-top: 32px;
+}
+.hybrids p {
+  width: 315px;
+  height: 294px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  color: #717378;
+  margin-top: 32px;
+}
+.hybrids button {
+  width: 105px;
+  height: 24px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  color: #17af26;
+  background: none;
+  border: none;
+  margin-top: 32px;
+}
