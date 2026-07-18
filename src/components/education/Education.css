@@ -1,0 +1,9 @@
+.contanier{
+    max-width: 1200px;
+    height: 800px;
+    display: flex;
+   gap: 100px;
+   margin-left: 300px;
+  
+}
+
