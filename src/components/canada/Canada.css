@@ -1,0 +1,42 @@
+.carts-sec {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 10px;
+    gap: 20px;
+}
+
+p {
+    color: rgb(91, 91, 91);
+    padding-top: 20px;
+    padding-bottom: 50px;
+    font-size: 14px;
+
+}
+
+.cart-1, .cart-2, .cart-3, .cart-4, .cart-5, .cart-6{
+    border-radius: 5px ;
+    font-size: 15px;
+    padding: 10px;
+    background-color: rgb(251, 248, 248);
+}
+
+h3{
+padding-top: 10px;
+padding-bottom: 10px;
+font-weight: 600;
+}
+
+.Canada-sec {
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+.h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.log {
+    font-size: 50px;
+    width: 25px;
+}
