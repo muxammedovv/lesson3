@@ -1,0 +1,62 @@
+.marijuana{
+    background-color: #01100B;
+    padding-bottom: 100px;
+    padding-top: 100px;
+
+}
+.marijuana-text-main{
+    font-size: 64px;
+    color: #FFFFFF;
+    text-align: center;
+    margin: auto;
+    width: 948px;
+
+}
+.marijuana-text-info{
+    font-size: 20px;
+    color: #9D9EA2;
+    text-align: center;
+    margin: auto;
+    width: 790px;
+    margin-top: 30px;
+}
+.marijuana-cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+.marijuana-card{
+    width: 548px;
+    padding: 30px;
+    
+}
+.marijuana-card .marijuana-card-img{
+    margin: auto;
+    display: block;
+}
+.marijuana-card .marijuana-card-main-text{
+    font-size: 24px;
+    color: #FFFFFF;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.marijuana-card .marijuana-card-info-text{
+    font-size: 16px;
+    color: #9D9EA2;
+    text-align: center;
+}
+.marijuana-btn{
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 16px 32px;
+    border: none;
+    background-color: #17AF26;
+    border-radius: 50px;
+    margin: auto;
+    display: block;
+    margin-top: 50px;
+}
