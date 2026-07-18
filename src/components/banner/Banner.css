@@ -44,10 +44,9 @@ margin-right: 200px;
 }
 
 .Banner-wrapper img{
-    width: 900px;
-    height: 500px;
-    margin-left: 420px;
-    margin-top: 240px;
+    width: 85%;
+    height: 60vh;
+
 }
 
 .Banner-text{
