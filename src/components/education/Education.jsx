@@ -13,7 +13,7 @@ const Education = () => {
         <p className="date">January 24, 2023</p>
         <h2>12 Mistakes To Avoid When <br />  Buying Cannabis Online</h2>
         <p>Buying cannabis online can be a great way to <br /> get your hands on the products you need <br /> without leaving the comfort of your home. But …</p><br /><br />
-        <p><a href="">read more</a></p>
+        <p><a href="" className="read">read more</a></p>
       </div>
       <div className="howto">
         <img src={howto} alt="" />
